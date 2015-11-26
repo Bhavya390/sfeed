@@ -1,0 +1,21 @@
+body {  
+    background: -moz-linear-gradient(to bottom, #80B6C0 0%, #C6E4F9 38%); /* FF3.6+ */
+	background: -webkit-linear-gradient(to bottom, #80B6C0 0%, #C6E4F9 38%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(to bottom, #80B6C0 0%, #C6E4F9 38%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(to bottom, #80B6C0 0%, #C6E4F9 38%); /* IE10+ */
+	background: linear-gradient(to bottom, #80B6C0 0%, #C6E4F9 38%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80B6C0', endColorstr='#C6E4F9', GradientType=0 );
+	background-repeat:no-repeat;
+	background: url(../images/formbg.jpg) no-repeat;
+
+}
+#form{
+	background-color:white ;
+
+
+}
+	
+.form-control{
+	
+	background-image: url();
+}
